@@ -24,7 +24,7 @@ Neurons, Layers, and Activation Functions:
         The first attempt started with fewer neurons and layers but was increased to capture more complex patterns in the data,                    which led to better performance.
         
     Activation Functions:
-        ReLU (Rectified Linear Unit) was used for the hidden layers to introduce non-linearity and handle complex patterns in the            data.
+ReLU (Rectified Linear Unit) was used for the hidden layers to introduce non-linearity and handle complex patterns in the data.                        
         Sigmoid activation function was used for the output layer because the task is a binary classification problem.
 
 
