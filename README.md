@@ -20,8 +20,8 @@ Compiling, Training, and Evaluating the Model
 Neurons, Layers, and Activation Functions:
 
     Neurons and Layers:
-        The final neural network model consists of 3 hidden layers with 128, 64, and 32 neurons, respectively.
-        The first attempt started with fewer neurons and layers but was increased to capture more complex patterns in the data,              which led to better performance.
+        The final neural network model consists of 3 hidden layers with 128, 64, and 32 neurons, respectively,
+        The first attempt started with fewer neurons and layers but was increased to capture more complex patterns in the data,                    which led to better performance.
         
     Activation Functions:
         ReLU (Rectified Linear Unit) was used for the hidden layers to introduce non-linearity and handle complex patterns in the            data.
