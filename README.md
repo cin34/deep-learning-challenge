@@ -47,8 +47,8 @@ Recommendations for Fine-Tuning the Model
 
 To improve the model's performance and potentially reach or surpass the target accuracy of 75%, the following fine-tuning strategies are recommended:
 
-Increase Model Complexity:
 
+Increase Model Complexity:
     Add More Layers: Introducing additional hidden layers can help the model learn more complex patterns in the data.
                 Increase Neurons per Layer: Adding more neurons to each layer could enhance the model's ability to capture intricate                 relationships in the dataset.
 
